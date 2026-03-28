@@ -1,0 +1,113 @@
+{
+  "itemGroup.zombiemobs": "Zombie Mobs",
+
+  "entity.zombiemobs.zombie_pig": "Zombie Pig",
+  "entity.zombiemobs.zombie_rabbit": "Zombie Rabbit",
+  "entity.zombiemobs.husk_rabbit": "Rabbit Husk",
+  "entity.zombiemobs.zombie_cat": "Zombie Cat",
+  "entity.zombiemobs.zombie_chicken": "Zombie Chicken",
+  "entity.zombiemobs.zombie_cow": "Zombie Cow",
+  "entity.zombiemobs.zombie_polar_bear": "Gelid Polar Bear",
+  "entity.zombiemobs.gelid_rabbit": "Gelid Rabbit",
+  "entity.zombiemobs.zombie_sheep": "Zombie Sheep",
+  "entity.zombiemobs.rider_drowned": "Rider Drowned",
+  "entity.zombiemobs.zombie_dolphin": "Brined Dolphin",
+
+  "item.zombiemobs.zombie_pig_spawn_egg": "Zombie Pig Spawn Egg",
+  "item.zombiemobs.zombie_rabbit_spawn_egg": "Zombie Rabbit Spawn Egg",
+  "item.zombiemobs.husk_rabbit_spawn_egg": "Rabbit Husk Spawn Egg",
+  "item.zombiemobs.zombie_cat_spawn_egg": "Zombie Cat Spawn Egg",
+  "item.zombiemobs.rider_drowned_spawn_egg": "Rider Drowned Spawn Egg",
+  "item.zombiemobs.zombie_cow_spawn_egg": "Zombie Cow Spawn Egg",
+  "item.zombiemobs.zombie_chicken_spawn_egg": "Zombie Chicken Spawn Egg",
+  "item.zombiemobs.zombie_polar_bear_spawn_egg": "Gelid Polar Bear Spawn Egg",
+  "item.zombiemobs.gelid_rabbit_spawn_egg": "Gelid Rabbit Spawn Egg",
+  "item.zombiemobs.zombie_sheep_spawn_egg": "Zombie Sheep Spawn Egg",
+  "item.zombiemobs.zombie_dolphin_spawn_egg": "Brined Dolphin Spawn Egg",
+
+  "block.zombiemobs.frozen_bone_block": "Frozen Bone Block",
+  "block.zombiemobs.rotten_flesh_block": "Rotten Flesh Block",
+
+  "subtitle.zombiemobs.zombie_pig.ambient": "Zombie Pig oinks",
+  "subtitle.zombiemobs.zombie_pig.hurt": "Zombie Pig hurts",
+  "subtitle.zombiemobs.zombie_pig.death": "Zombie Pig dies",
+  "subtitle.zombiemobs.zombie_pig.step": "Zombie Pig steps",
+  "subtitle.zombiemobs.zombie_siege.alert": "The Zombies are coming",
+
+  "subtitle.zombiemobs.zombie_rabbit.ambient": "Zombie Rabbit growls",
+  "subtitle.zombiemobs.zombie_rabbit.hurt": "Zombie Rabbit hurts",
+  "subtitle.zombiemobs.zombie_rabbit.death": "Zombie Rabbit dies",
+  "subtitle.zombiemobs.zombie_rabbit.step": "Zombie Rabbit hops",
+
+  "subtitle.zombiemobs.husk_rabbit.ambient": "Rabbit Husk growls",
+  "subtitle.zombiemobs.husk_rabbit.hurt": "Rabbit Husk hurts",
+  "subtitle.zombiemobs.husk_rabbit.death": "Rabbit Husk dies",
+  "subtitle.zombiemobs.husk_rabbit.step": "Rabbit Husk hops",
+
+  "subtitle.zombiemobs.gelid_rabbit.ambient": "Gelid Rabbit growls",
+  "subtitle.zombiemobs.gelid_rabbit.hurt": "Gelid Rabbit hurts",
+  "subtitle.zombiemobs.gelid_rabbit.death": "Gelid Rabbit dies",
+  "subtitle.zombiemobs.gelid_rabbit.step": "Gelid Rabbit hops",
+
+  "subtitle.zombiemobs.zombie_cat.ambient": "Zombie Cat hisses",
+  "subtitle.zombiemobs.zombie_cat.hurt": "Zombie Cat hurts",
+  "subtitle.zombiemobs.zombie_cat.death": "Zombie Cat dies",
+  "subtitle.zombiemobs.zombie_cat.step": "Zombie Cat stalks",
+
+  "subtitle.zombiemobs.zombie_cow.ambient": "Zombie Cow moans",
+  "subtitle.zombiemobs.zombie_cow.hurt": "Zombie Cow hurts",
+  "subtitle.zombiemobs.zombie_cow.death": "Zombie Cow dies",
+  "subtitle.zombiemobs.zombie_cow.step": "Zombie Cow stomps",
+
+  "subtitle.zombiemobs.zombie_chicken.ambient": "Zombie Chicken clucks",
+  "subtitle.zombiemobs.zombie_chicken.hurt": "Zombie Chicken hurts",
+  "subtitle.zombiemobs.zombie_chicken.death": "Zombie Chicken dies",
+  "subtitle.zombiemobs.zombie_chicken.step": "Zombie Chicken flaps",
+
+  "subtitle.zombiemobs.zombie_polar_bear.ambient": "Gelid Polar Bear growls",
+  "subtitle.zombiemobs.zombie_polar_bear.hurt": "Gelid Polar Bear hurts",
+  "subtitle.zombiemobs.zombie_polar_bear.death": "Gelid Polar Bear dies",
+  "subtitle.zombiemobs.zombie_polar_bear.shield_break": "Gelid Polar Bear strong blow",
+  "subtitle.zombiemobs.zombie_polar_bear.step": "Gelid Polar Bear stomps",
+
+  "config.zombiemobs.spawning": "Spawning",
+  "config.zombiemobs.mob_behavior": "Mob Behavior",
+  "config.zombiemobs.mob_abilities": "Mob Abilities",
+  "config.zombiemobs.visual_effects": "Visual Effects",
+  "config.zombiemobs.gameplay": "Gameplay",
+
+  "config.zombiemobs.spawn_zombie_sheep": "Spawn Zombie Sheep",
+  "config.zombiemobs.spawn_zombie_pig": "Spawn Zombie Pig",
+  "config.zombiemobs.spawn_zombie_rabbit": "Spawn Zombie Rabbit",
+  "config.zombiemobs.spawn_zombie_cat": "Spawn Zombie Cat",
+  "config.zombiemobs.spawn_zombie_cow": "Spawn Zombie Cow",
+  "config.zombiemobs.spawn_zombie_chicken": "Spawn Zombie Chicken",
+  "config.zombiemobs.spawn_zombie_dolphin": "Spawn Zombie Dolphin",
+  "config.zombiemobs.spawn_zombie_polar_bear": "Spawn Zombie Polar Bear",
+  "config.zombiemobs.spawn_gelid_rabbit": "Spawn Gelid Rabbit",
+  "config.zombiemobs.spawn_husk_rabbit": "Spawn Husk Rabbit",
+  "config.zombiemobs.zombie_siege_alert": "Zombie Siege alert",
+  "config.zombiemobs.apocalypse_mode": "Apocalypse",
+  "config.zombiemobs.zombie_poof_particles": "Zombie Poof Particles",
+  "config.zombiemobs.zombies_attack_living_variants": "Zombie animals attack living variants",
+  "config.zombiemobs.zombie_cow_break_doors": "Zombie cows break doors",
+  "config.zombiemobs.zoglin_break_doors": "Zoglins break doors",
+  "config.zombiemobs.zombie_animals_burn_in_sun": "Zombie animals burn in sunlight",
+  "config.zombiemobs.zombies_burn_in_day": "Zombies burn in sunlight",
+  "config.zombiemobs.zombie_sheep": "Zombie Sheep",
+  "config.zombiemobs.enable_scream_ability": "Enable scream ability",
+  "config.zombiemobs.scream_cooldown_seconds": "Scream cooldown",
+  "config.zombiemobs.scream_radius": "Scream radius",
+  "config.zombiemobs.gelid_polar_bear": "Gelid Polar Bear",
+  "config.zombiemobs.polar_bear_special_attack": "Enable freeze shockwave attack",
+  "config.zombiemobs.gelid_rabbit": "Gelid Rabbit",
+  "config.zombiemobs.freeze_on_death": "Freeze explosion on death",
+  "config.zombiemobs.freeze_ticks": "Freeze duration",
+
+  "subtitle.zombiemobs.zombie_sheep.scream": "Zombie Sheep screams"
+}
+
+
+
+
+

@@ -1,0 +1,246 @@
+{
+  "entity.zombie_pig.ambient": {
+    "subtitle": "subtitle.zombiemobs.zombie_pig.ambient",
+    "sounds": [
+      "zombiemobs:entity/zombie_pig/ambient"
+    ]
+  },
+  "entity.zombie_pig.hurt": {
+    "subtitle": "subtitle.zombiemobs.zombie_pig.hurt",
+    "sounds": [
+      "zombiemobs:entity/zombie_pig/hurt"
+    ]
+  },
+  "entity.zombie_pig.death": {
+    "subtitle": "subtitle.zombiemobs.zombie_pig.death",
+    "sounds": [
+      "zombiemobs:entity/zombie_pig/death"
+    ]
+  },
+  "entity.zombie_pig.step": {
+    "subtitle": "subtitle.zombiemobs.zombie_pig.step",
+    "sounds": [
+      "minecraft:entity/pig/step"
+    ]
+  },
+  "entity.zombie_sheep.scream": {
+    "subtitle": "subtitle.zombiemobs.zombie_sheep.scream",
+    "sounds": [
+      "zombiemobs:entity/zombie_sheep/scream"
+    ]
+  },
+  "entity.zombie_polar_bear.shield_break": {
+    "subtitle": "subtitle.zombiemobs.zombie_polar_bear.shield_break",
+    "sounds": [
+      "zombiemobs:entity/zombie_polar_bear/shield_break"
+    ]
+  },
+  "event.zombie_siege.alert": {
+    "subtitle": "subtitle.zombiemobs.zombie_siege.alert",
+    "sounds": [
+      "zombiemobs:entity/zombie_polar_bear/shield_break"
+    ]
+  },
+  "entity.zombie_rabbit.ambient": {
+    "subtitle": "subtitle.zombiemobs.zombie_rabbit.ambient",
+    "sounds": [
+      "zombiemobs:entity/zombie_rabbit/ambient"
+    ]
+  },
+  "entity.zombie_rabbit.hurt": {
+    "subtitle": "subtitle.zombiemobs.zombie_rabbit.hurt",
+    "sounds": [
+      "zombiemobs:entity/zombie_rabbit/hurt"
+    ]
+  },
+  "entity.zombie_rabbit.death": {
+    "subtitle": "subtitle.zombiemobs.zombie_rabbit.death",
+    "sounds": [
+      "zombiemobs:entity/zombie_rabbit/death"
+    ]
+  },
+  "entity.zombie_rabbit.step": {
+    "subtitle": "subtitle.zombiemobs.zombie_rabbit.step",
+    "sounds": [
+      "zombiemobs:entity/zombie_rabbit/step"
+    ]
+  },
+
+  "entity.husk_rabbit.ambient": {
+    "subtitle": "subtitle.zombiemobs.husk_rabbit.ambient",
+    "sounds": [
+      "zombiemobs:entity/husk_rabbit/ambient"
+    ]
+  },
+  "entity.husk_rabbit.hurt": {
+    "subtitle": "subtitle.zombiemobs.husk_rabbit.hurt",
+    "sounds": [
+      "zombiemobs:entity/husk_rabbit/hurt"
+    ]
+  },
+  "entity.husk_rabbit.death": {
+    "subtitle": "subtitle.zombiemobs.husk_rabbit.death",
+    "sounds": [
+      "zombiemobs:entity/husk_rabbit/death"
+    ]
+  },
+  "entity.husk_rabbit.step": {
+    "subtitle": "subtitle.zombiemobs.husk_rabbit.step",
+    "sounds": [
+      "zombiemobs:entity/husk_rabbit/step"
+    ]
+  },
+
+  "entity.gelid_rabbit.ambient": {
+    "subtitle": "subtitle.zombiemobs.gelid_rabbit.ambient",
+    "sounds": [
+      "zombiemobs:entity/gelid_rabbit/ambient"
+    ]
+  },
+  "entity.gelid_rabbit.hurt": {
+    "subtitle": "subtitle.zombiemobs.gelid_rabbit.hurt",
+    "sounds": [
+      "zombiemobs:entity/gelid_rabbit/hurt"
+    ]
+  },
+  "entity.gelid_rabbit.death": {
+    "subtitle": "subtitle.zombiemobs.gelid_rabbit.death",
+    "sounds": [
+      "zombiemobs:entity/gelid_rabbit/death"
+    ]
+  },
+  "entity.gelid_rabbit.step": {
+    "subtitle": "subtitle.zombiemobs.gelid_rabbit.step",
+    "sounds": [
+      "zombiemobs:entity/gelid_rabbit/step"
+    ]
+  },
+
+  "entity.zombie_cat.ambient": {
+    "subtitle": "subtitle.zombiemobs.zombie_cat.ambient",
+    "sounds": [
+      "zombiemobs:entity/zombie_cat/ambient"
+    ]
+  },
+  "entity.zombie_cat.hurt": {
+    "subtitle": "subtitle.zombiemobs.zombie_cat.hurt",
+    "sounds": [
+      "zombiemobs:entity/zombie_cat/hurt"
+    ]
+  },
+  "entity.zombie_cat.death": {
+    "subtitle": "subtitle.zombiemobs.zombie_cat.death",
+    "sounds": [
+      "zombiemobs:entity/zombie_cat/death"
+    ]
+  },
+  "entity.zombie_cat.step": {
+    "subtitle": "subtitle.zombiemobs.zombie_cat.step",
+    "sounds": [
+      "zombiemobs:entity/zombie_cat/step"
+    ]
+  },
+
+  "entity.zombie_cow.ambient": {
+    "subtitle": "subtitle.zombiemobs.zombie_cow.ambient",
+    "sounds": [
+      "zombiemobs:entity/zombie_cow/ambient"
+    ]
+  },
+  "entity.zombie_cow.hurt": {
+    "subtitle": "subtitle.zombiemobs.zombie_cow.hurt",
+    "sounds": [
+      "zombiemobs:entity/zombie_cow/hurt"
+    ]
+  },
+  "entity.zombie_cow.death": {
+    "subtitle": "subtitle.zombiemobs.zombie_cow.death",
+    "sounds": [
+      "zombiemobs:entity/zombie_cow/death"
+    ]
+  },
+  "entity.zombie_cow.step": {
+    "subtitle": "subtitle.zombiemobs.zombie_cow.step",
+    "sounds": [
+      "zombiemobs:entity/zombie_cow/step"
+    ]
+  },
+
+  "entity.zombie_chicken.ambient": {
+    "subtitle": "subtitle.zombiemobs.zombie_chicken.ambient",
+    "sounds": [
+      "zombiemobs:entity/zombie_chicken/ambient"
+    ]
+  },
+  "entity.zombie_chicken.hurt": {
+    "subtitle": "subtitle.zombiemobs.zombie_chicken.hurt",
+    "sounds": [
+      "zombiemobs:entity/zombie_chicken/hurt"
+    ]
+  },
+  "entity.zombie_chicken.death": {
+    "subtitle": "subtitle.zombiemobs.zombie_chicken.death",
+    "sounds": [
+      "zombiemobs:entity/zombie_chicken/death"
+    ]
+  },
+  "entity.zombie_chicken.step": {
+    "subtitle": "subtitle.zombiemobs.zombie_chicken.step",
+    "sounds": [
+      "zombiemobs:entity/zombie_chicken/step"
+    ]
+  },
+
+  "entity.zombie_polar_bear.ambient": {
+    "subtitle": "subtitle.zombiemobs.zombie_polar_bear.ambient",
+    "sounds": [
+      "zombiemobs:entity/zombie_polar_bear/ambient"
+    ]
+  },
+  "entity.zombie_polar_bear.hurt": {
+    "subtitle": "subtitle.zombiemobs.zombie_polar_bear.hurt",
+    "sounds": [
+      "zombiemobs:entity/zombie_polar_bear/hurt"
+    ]
+  },
+  "entity.zombie_polar_bear.death": {
+    "subtitle": "subtitle.zombiemobs.zombie_polar_bear.death",
+    "sounds": [
+      "zombiemobs:entity/zombie_polar_bear/death"
+    ]
+  },
+  "entity.zombie_polar_bear.step": {
+    "subtitle": "subtitle.zombiemobs.zombie_polar_bear.step",
+    "sounds": [
+      "zombiemobs:entity/zombie_polar_bear/step"
+    ]
+  },
+
+  "entity.zombie_sheep.ambient": {
+    "subtitle": "subtitle.zombiemobs.zombie_sheep.ambient",
+    "sounds": [
+      "zombiemobs:entity/zombie_sheep/ambient"
+    ]
+  },
+  "entity.zombie_sheep.hurt": {
+    "subtitle": "subtitle.zombiemobs.zombie_sheep.hurt",
+    "sounds": [
+      "zombiemobs:entity/zombie_sheep/hurt"
+    ]
+  },
+  "entity.zombie_sheep.death": {
+    "subtitle": "subtitle.zombiemobs.zombie_sheep.death",
+    "sounds": [
+      "zombiemobs:entity/zombie_sheep/death"
+    ]
+  },
+  "entity.zombie_sheep.step": {
+    "subtitle": "subtitle.zombiemobs.zombie_sheep.step",
+    "sounds": [
+      "zombiemobs:entity/zombie_sheep/step"
+    ]
+  }
+}
+
+
+

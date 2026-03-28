@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zombiemobs:frozen_bone_block"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 9
+  }
+}

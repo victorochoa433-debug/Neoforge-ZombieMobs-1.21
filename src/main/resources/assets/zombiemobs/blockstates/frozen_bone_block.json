@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "zombiemobs:block/frozen_bone_block" },
+    "axis=z": { "model": "zombiemobs:block/frozen_bone_block", "x": 90 },
+    "axis=x": { "model": "zombiemobs:block/frozen_bone_block", "x": 90, "y": 90 }
+  }
+}

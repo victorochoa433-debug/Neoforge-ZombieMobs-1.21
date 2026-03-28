@@ -1,0 +1,71 @@
+ZOMBIE MOBS LICENSE
+
+Copyright (c) 2026
+
+---
+
+## CODE LICENSE (MIT)
+
+This project's source code is licensed under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software.
+
+The above copyright notice and this permission notice must be included in all
+copies or substantial portions of the Software.
+
+---
+
+## ASSETS LICENSE (ALL RIGHTS RESERVED)
+
+All assets in this project are protected under All Rights Reserved (ARR),
+unless otherwise stated.
+
+This applies to all original assets created by Vykket (Textures)
+
+These assets are the exclusive property of Vykket.
+
+You are NOT allowed to:
+
+* Copy, redistribute, or reupload these assets
+* Modify or create derivative works from these assets
+* Use these assets in other projects without explicit permission
+
+---
+
+SOUND ATTRIBUTION
+
+Some sound files included in this project are sourced from Pixabay.
+
+These sound assets are NOT owned by Vykket and are used in accordance
+with Pixabay's license.
+
+You are responsible for complying with Pixabay's terms if you intend to use,
+modify, or redistribute these sounds.
+
+These files are NOT covered by this project's asset license.
+
+---
+
+## DEFINITION OF OFFICIAL SOURCES
+
+"Official Sources" refers to platforms where this project is published
+directly by the author(s), such as official mod pages or repositories.
+
+---
+
+## DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+

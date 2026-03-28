@@ -1,0 +1,15 @@
+{
+  "name": "zombiemobs:polar_bear_fossil/start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "zombiemobs:polar_bear_fossil",
+        "processors": "zombiemobs:fossil_ignore_air",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

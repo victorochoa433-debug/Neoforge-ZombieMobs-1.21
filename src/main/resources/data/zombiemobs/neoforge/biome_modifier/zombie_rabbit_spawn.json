@@ -1,0 +1,18 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:taiga",
+    "minecraft:flower_forest",
+    "minecraft:meadow"
+  ],
+  "spawners": {
+    "type": "zombiemobs:zombie_rabbit",
+    "weight": 30,
+    "minCount": 1,
+    "maxCount": 3,
+    "category": "monster"
+  }
+}
+

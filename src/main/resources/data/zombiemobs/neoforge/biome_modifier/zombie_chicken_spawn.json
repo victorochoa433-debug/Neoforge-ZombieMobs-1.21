@@ -1,0 +1,28 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "minecraft:ice_spikes",
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:swamp",
+    "minecraft:windswept_forest",
+    "minecraft:old_growth_birch_forest",
+    "minecraft:savanna",
+    "minecraft:snowy_slopes",
+    "minecraft:grove",
+    "minecraft:jungle",
+    "minecraft:snowy_taiga",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:taiga",
+    "minecraft:flower_forest",
+    "minecraft:meadow"
+  ],
+  "spawners": {
+    "type": "zombiemobs:zombie_chicken",
+    "weight": 60,
+    "minCount": 1,
+    "maxCount": 3,
+    "category": "monster"
+  }
+}

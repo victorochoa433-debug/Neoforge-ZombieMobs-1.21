@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_overworld",
+    "#neoforge:is_plains",
+    "#neoforge:is_forest",
+    "#neoforge:is_savanna"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "values": [
+    "minecraft:zombie_horse",
+    "minecraft:zombie",
+    "minecraft:zombie_villager",
+    "minecraft:zombified_piglin",
+    "minecraft:zoglin",
+    "zombiemobs:zombie_pig",
+    "zombiemobs:zombie_rabbit",
+    "zombiemobs:husk_rabbit",
+    "zombiemobs:zombie_cat",
+    "zombiemobs:zombie_polar_bear",
+    "zombiemobs:zombie_chicken",
+    "zombiemobs:zombie_cow",
+    "zombiemobs:gelid_rabbit",
+    "zombiemobs:zombie_sheep",
+    "zombiemobs:zombie_dolphin",
+    "zombiemobs:rider_drowned",
+    "minecraft:drowned",
+    "minecraft:husk"
+  ]
+}
