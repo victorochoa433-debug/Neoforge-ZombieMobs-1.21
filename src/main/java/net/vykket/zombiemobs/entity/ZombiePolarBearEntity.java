@@ -343,6 +343,8 @@ public class ZombiePolarBearEntity extends PolarBear implements Enemy {
 
         BlockPos pos = this.blockPosition();
 
+        if (this.level().isRainingAt(pos)) return false;
+
         return this.level().canSeeSky(pos);
     }
 

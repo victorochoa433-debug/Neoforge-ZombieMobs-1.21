@@ -150,8 +150,12 @@ public class ZombieDolphinEntity extends Dolphin implements Enemy {
         if (!this.level().isClientSide && this.isAlive()) {
 
             if (!this.isInWater() && Config.CAN_BURN_IN_SUN.get()) {
+                BlockPos pos = this.blockPosition();
+
                 if (this.level().isDay()
-                        && this.level().canSeeSky(this.blockPosition())) {
+                        && this.level().canSeeSky(pos)
+                        && !this.level().isRainingAt(pos)) {
+
                     this.igniteForSeconds(8);
                 }
             }

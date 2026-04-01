@@ -30,19 +30,22 @@ public abstract class MobArmorMixin {
 
         ci.cancel();
 
-        float chance = 0.15F;
-
+        float multiplier = difficulty.getSpecialMultiplier();
+        float chance = 0.15F * multiplier;
         if (random.nextFloat() < chance) {
-
             int tier = random.nextInt(2);
-
+            if (random.nextFloat() < 0.095F * multiplier) {
+                tier++;
+            }
+            if (random.nextFloat() < 0.095F * multiplier) {
+                tier++;
+            }
             EquipmentSlot[] slots = new EquipmentSlot[] {
                     EquipmentSlot.HEAD,
                     EquipmentSlot.CHEST,
                     EquipmentSlot.LEGS,
                     EquipmentSlot.FEET
             };
-
             for (EquipmentSlot slot : slots) {
 
                 ItemStack current = self.getItemBySlot(slot);
@@ -50,14 +53,11 @@ public abstract class MobArmorMixin {
                 if (!current.isEmpty()) {
                     break;
                 }
-
                 Item item = Mob.getEquipmentForSlot(slot, tier);
 
                 if (item != null) {
-                    ItemStack armor = new ItemStack(item);
-                    self.setItemSlot(slot, armor);
+                    self.setItemSlot(slot, new ItemStack(item));
                 }
-
                 if (random.nextFloat() < 0.25F) {
                     break;
                 }

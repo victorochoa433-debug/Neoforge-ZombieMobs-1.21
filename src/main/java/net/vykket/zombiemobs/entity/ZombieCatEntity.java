@@ -243,12 +243,12 @@ public class ZombieCatEntity extends Cat implements Enemy {
 
     @Override
     protected SoundEvent getAmbientSound() {
-        return SoundEvents.CAT_AMBIENT;
+        return SoundEvents.CAT_HISS;
     }
 
     @Override
     protected SoundEvent getHurtSound(DamageSource source) {
-        return SoundEvents.CAT_HISS;
+        return SoundEvents.CAT_HURT;
     }
 
     @Override
