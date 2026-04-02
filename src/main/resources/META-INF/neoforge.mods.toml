@@ -1,15 +1,15 @@
 modLoader="javafml"
 loaderVersion="[4,)"
-license="Mozilla Public License"
+license="Zombie Mobs License"
 
 [[mods]]
 modId="zombiemobs"
-version="1.0.0"
+version="1.0.2"
 displayName="ZombieMobs"
 authors="Vykket"
 logoFile = "icon.png"
 logoBlur = false
-description='''Adds new enemies, improvements, and fixes to various mechanics related to zombies, and more!'''
+description='''Adds new zombified enemies, improvements, and fixes to various mechanics related to zombies, and more!'''
 
 [[mixins]]
 config="zombiemobs.mixins.json"
